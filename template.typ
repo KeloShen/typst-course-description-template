@@ -42,8 +42,8 @@
       #v(0.2em)
       #align(center)[
         #text(style: "italic", size: 9pt)[
-          South Campus, Xi'an, Shaanxi Province 710126, China \
-          Tel: +86 29 81891018 | scst[at]xidian.edu.cn
+          South Campus, Xidian University, Chang'an District, Xi'an, Shaanxi Province 710126, China \
+          Tel: +86 29 81891018 | Admin Email: scst[at]xidian.edu.cn
         ]
       ]
       #v(0.2em)
@@ -63,7 +63,7 @@
     #v(0.3em)
     #align(center)[
       #text(style: "italic", size: 9pt)[
-        South Campus, Xi'an, Shaanxi Province 710126, China \
+        South Campus, Xidian University, Chang'an District, Xi'an, Shaanxi Province 710126, China \
         Tel: +86 29 81891018 \
         Admin Email: scst[at]xidian.edu.cn
       ]
@@ -85,7 +85,7 @@
     #v(0.3em)
     #align(center)[
       #text(style: "italic", size: 9pt)[
-        South Campus, Xi'an, Shaanxi Province 710126, China \
+        South Campus, Xidian University, Chang'an District, Xi'an, Shaanxi Province 710126, China \
         Tel: +86 29 81891018 \
         Admin Email: scst[at]xidian.edu.cn
       ]
